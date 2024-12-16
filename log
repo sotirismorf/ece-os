@@ -1,0 +1,20 @@
+/home/msotirios/Lab05
+mkdir: cannot create directory ‘new_folder’: File exists
+stat: cannot stat 'filename': No such file or directory
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rmdir: failed to remove 'empty_directory': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+cat: file.txt: No such file or directory
+file.txt: No such file or directory
+head: cannot open 'file.txt' for reading: No such file or directory
+tail: cannot open 'file.txt' for reading: No such file or directory
+tar: directory: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+tar: Cowardly refusing to create an empty archive
+Try 'tar --help' or 'tar --usage' for more information.
+tar (child): archive.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
